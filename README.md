@@ -133,3 +133,4 @@ Then open the local URL that Vite shows in the terminal.
 - It has very simple files that work together.
 
 If you want, I can also add a button to show only the top results or save favorite movies next.
+
