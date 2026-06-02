@@ -50,7 +50,7 @@ h1 {
 
 .subtitle {
   margin: 12px 0 0;
-  color: #94a3b8;
+  color: #b89494;
   line-height: 1.7;
   max-width: 780px;
 }
@@ -64,7 +64,7 @@ h1 {
   display: block;
   margin-bottom: 10px;
   font-weight: 600;
-  color: #f8fafc;
+  color: #fcf8f8;
 }
 
 .search-input-group {
@@ -78,7 +78,7 @@ h1 {
   padding: 14px 16px;
   border-radius: 14px;
   border: 1px solid #420000;
-  background: #8b0101;
+  background: #310000;
   color: #ffffff;
 }
 
@@ -91,8 +91,8 @@ h1 {
   padding: 14px 20px;
   border: none;
   border-radius: 14px;
-  background: #670101;
-  color: #200101;
+  background: #390000;
+  color: #ffffff;
   font-weight: 700;
   cursor: pointer;
   transition: background 0.2s ease;
