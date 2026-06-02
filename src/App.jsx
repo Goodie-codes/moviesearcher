@@ -75,12 +75,6 @@ function App() {
       {error && <div className="alert">{error}</div>}
 
       <main>
-        {movies.length === 0 && !loading && !error && (
-          <div className="empty-state">
-            Enter a title and press Search to see results.
-          </div>
-        )}
-
         <div className="grid">
           {movies.map((movie) => (
             <article key={movie.id} className="card">
